@@ -29,7 +29,7 @@ function home() {
                     <i class='bx bx-globe-alt' ></i>
                     <a href='https://srtglobalsolutions.com/'>Website</a>
                     </div>
-                    <button className='mt-5' id='btn'><a href='tel: +918927236850'>Get in touch</a></button>
+                    <button className='mt-5' id='btn'><a href='tel: +917043661691'>Get in touch</a></button>
                     <p id='thank-p' className='pb-5'>Thank you! For your interest</p>
             </div>
         </>
