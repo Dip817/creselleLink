@@ -59,5 +59,19 @@
         color: #221d1d;
         font-weight: 700;
     }
+    #btn{
+        padding: 6px 20px;
+        text-align: center;
+        border-radius: 20px;
+        outline: none;
+        background-color: #003232;
+        color: white;
+        border: none;
+        font-size: 20px;
+    }
+    #btn a{
+        text-decoration: none;
+        color: white;
+    }
     
 }
