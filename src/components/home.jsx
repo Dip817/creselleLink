@@ -29,7 +29,7 @@ function home() {
                     <i class='bx bx-globe-alt' ></i>
                     <a href='https://koadai.com/'>Website</a>
                     </div>
-                    <button className='mt-5' id='btn'><a href='tel: +917043661691'>Get in touch</a></button>
+                    <button className='mt-5' id='btn'><a href='tel: +918653034994'>Get in touch</a></button>
                     <p id='thank-p' className='pb-5'>Thank you! For your interest</p>
             </div>
         </>
